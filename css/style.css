@@ -818,11 +818,11 @@ h4 {
     margin-top: 16px;
 }
 #contactt{
-    padding: 60px;
+    padding: 81px;
 }
 @media only screen and (max-width: 600px) {
     .frame iframe {
-   width: 230px;
+   width: 200px;
    height: 400px;
    margin-right: 120px;
     }
