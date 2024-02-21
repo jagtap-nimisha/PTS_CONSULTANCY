@@ -818,12 +818,17 @@ h4 {
     margin-top: 16px;
 }
 #contactt{
-    padding: 81px;
+    padding: -3px;
+}
+.frame{
+    /* padding: 180px; */
 }
 @media only screen and (max-width: 600px) {
     .frame iframe {
    width: 200px;
    height: 400px;
-   margin-right: 120px;
+   
+margin-left: 80px;
+   /* margin-right: 120px; */
     }
   }
