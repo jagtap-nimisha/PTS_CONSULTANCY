@@ -329,18 +329,18 @@ h4 {
 ========================================================*/
 
 #features {
-    padding: 120px 0;
+    padding-top: 120px;
     /* margin-top: 160px; */
     text-align: center;
 }
 #team{
-    padding: 40px 0;
+    padding-top: 40px;
 }
 #staffing_model{
-    padding: 80px 0;
+    padding-top: 80px;
 }
 #Staffing{
-    padding: 80px 0;
+    padding-top: 120px;
 }
 #features .feature {
     margin: 30px 0;
@@ -348,7 +348,7 @@ h4 {
     transition: all .2s ease-in-out;
 }
 #contactt{
-    padding: 70px 0;
+    padding-top: 70px;
 }
 .all_content{
     text-align: justify;
@@ -845,10 +845,4 @@ h4 {
 margin-left: 80px;
    /* margin-right: 120px; */
     }
-  }
-  #contactt{
-    margin-top: 100px;
-  }
-  #contact{
-    margin-top: 100px;
   }
