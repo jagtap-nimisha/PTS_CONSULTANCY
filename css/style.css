@@ -350,7 +350,9 @@ h4 {
 #contactt{
     padding: 70px 0;
 }
-
+.all_content{
+    text-align: justify;
+}
 #features .feature .feature-icon {
     background: url(../imgs/icons-bg.png);
     background-position: center;
