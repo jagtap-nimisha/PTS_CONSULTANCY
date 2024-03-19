@@ -290,7 +290,7 @@ h4 {
 ========================================================*/
 
 #about {
-    padding: 120px 0;
+    /* padding: 120px 0; */
     text-align: center;
 }
 
@@ -330,9 +330,18 @@ h4 {
 
 #features {
     padding: 120px 0;
+    /* margin-top: 160px; */
     text-align: center;
 }
-
+#team{
+    padding: 40px 0;
+}
+#staffing_model{
+    padding: 80px 0;
+}
+#Staffing{
+    padding: 80px 0;
+}
 #features .feature {
     margin: 30px 0;
     padding: 0 20px;
